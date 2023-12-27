@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Home Loan",
+      "image": "../assets/img/services1.svg",
+      "description": "What are my options and the cost to exercise?",
+      "content": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 2,
+      "name": "Car Loan",
+      "image": "../assets/img/services2.svg",
+      "description": "What are my options and the cost to exercise?",
+      "content": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 3,
+      "name": "Business Loan",
+      "image": "../assets/img/services3.svg",
+      "description": "What are my options and the cost to exercise?",
+      "content": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    }
+  ],
+  "favorites": [
+    {
+      "id": 2,
+      "name": "Car Loan",
+      "image": "../assets/img/services2.svg",
+      "description": "What are my options and the cost to exercise?",
+      "content": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    }
+  ]
+}
